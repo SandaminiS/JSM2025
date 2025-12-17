@@ -7,7 +7,7 @@ This contains the slides presented at the **Joint Statistical Meetings (JSM) 202
 * **Title:** *Anomaly Detection in Neural Networks via One-Class Support Vector Methods*
 * **Conference:** Joint Statistical Meetings (JSM) 2025
 * **Presentation Type:** Oral 
-* **Author:** Poorna Sandamini Senaratne & Edgard M. Maboudou-Tchao
+* **Authors:** Poorna Sandamini Senaratne & Edgard M. Maboudou-Tchao
 * **Affiliation:** Department of Statistics and Data Science, University of Central Florida
 
 ### Abstract
